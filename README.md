@@ -128,7 +128,7 @@ The Streamlit dashboard provides an interactive overview of demand forecasts, in
 
 Install or set up the following tools:
 
-* Python 3.x
+* Python 3.14.7
 * Jupyter Notebook (VS Code recommended)
 * A Google Gemini API key (free tier available)
 
@@ -137,7 +137,7 @@ Install or set up the following tools:
 **1. Clone the repository**
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Sohini-dotcom/AI-demand-forecasting-inventory-assistant>
 cd ai-demand-forecasting-inventory-assistant
 ```
 
@@ -225,5 +225,5 @@ It showcases practical skills in time-series forecasting, model comparison and e
 
 ---
 
-**Author:** *(Sohini Chandra)*
+**Author:** Sohini Chandra
 **Role:** Data Analyst 
